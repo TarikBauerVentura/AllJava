@@ -1,5 +1,4 @@
 .idea
-/out
 /Android/*.iml
 /Android/.gradle
 /Android/local.properties
